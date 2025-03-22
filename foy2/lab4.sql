@@ -1,0 +1,2 @@
+INSERT INTO Substitution VALUES
+(2007, 1005, 102, 101, 41);

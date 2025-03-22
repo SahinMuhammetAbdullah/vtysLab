@@ -1,0 +1,12 @@
+REVOKE ALL PRIVILEGES ON DATABASE::[foy1] TO abdullah;
+Go
+REVOKE ALL PRIVILEGES ON Employees TO abdullah;
+Go
+REVOKE ALL PRIVILEGES ON Departments TO abdullah;
+Go
+REVOKE ALL PRIVILEGES ON Products TO abdullah;
+Go
+REVOKE ALL PRIVILEGES ON Orders TO abdullah;
+Go
+REVOKE ALL PRIVILEGES ON Customers TO abdullah;
+Go
