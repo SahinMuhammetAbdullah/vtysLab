@@ -1,4 +1,4 @@
 INSERT INTO Birimler VALUES
-(1, 'Yazılım'),
-(2, 'Donanım'),
-(3, 'Güvenlik');
+    (1, 'YazÄ±lÄ±m'),
+    (2, 'DonanÄ±m'),
+    (3, 'GÃ¼venlik');
